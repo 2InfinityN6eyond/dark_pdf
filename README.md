@@ -1,2 +1,2 @@
 # dark_pdf
-pdf reader for dark lover
+why the hell there aren't any dark pdf reader/editor?
